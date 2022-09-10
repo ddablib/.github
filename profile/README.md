@@ -32,6 +32,12 @@ Key to columns:
 * **Platforms** notes the platforms compatible with the project.
 * **Framework** notes whether the project is compatible with either the VCL, FireMonkey (FMX), has no dependencies (RTL), or is an IDE extension.
 
-## License
-
 All the code in the library now uses the Mozilla Public License v2.0 (MPL 2.0). Earlier versions may use the Mozilla Public License v1.
+
+## Other Repositories
+
+In addition to the library projects there are the following public repositories:
+
+1. [ddablib/ddablib.github.io](https://github.com/ddablib/ddablib.github.io) - library documentation website.
+2. [ddablib/.github](https://github.com/ddablib/.github) - special GitHub repo containing this profile content. 
+
