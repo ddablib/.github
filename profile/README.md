@@ -15,7 +15,7 @@ The project contains these components, classes and IDE extensions:
 | Fractions Unit *(beta)* | [ddablib/fractions](https://github.com/ddablib/fractions) | [View](https://delphidabbler.com/url/fractions-docs) | Win32<br>Win64 | RTL |
 | Hot Label Component | [ddablib/hotlabel](https://github.com/ddablib/hotlabel) | [View](https://delphidabbler.com/url/hotlabel-docs) | Win32<br>Win64 | VCL |
 | I/O Utility Classes | [ddablib/ioutils](https://github.com/ddablib/ioutils) | [View](https://delphidabbler.com/url/ioutils-docs) | Win32<br>Win64 | RTL |
-| MD5 Message Digest Class | [ddablib/md5](https://github.com/ddablib/md5) | [View](https://delphidabbler.com/url/md5-docs) | Win32<br>Win64 | RTL |
+| MD5 Message Digest Unit | [ddablib/md5](https://github.com/ddablib/md5) | [View](https://delphidabbler.com/url/md5-docs) | Win32<br>Win64 | RTL |
 | Message Dialogue Components | [ddablib/msgdlg](https://github.com/ddablib/msgdlg) | [View](https://delphidabbler.com/url/msgdlg-docs) | Win32<br>Win64 | VCL |
 | Resource File Unit | [ddablib/resfile](https://github.com/ddablib/resfile) | [View](https://delphidabbler.com/url/resfile-docs) | Win32<br>Win64 | RTL |
 | Shell Folders Unit | [ddablib/shellfolders](https://github.com/ddablib/shellfolders) | [View](https://delphidabbler.com/url/shellfolders-docs) | Win32<br>Win64 | VCL |
