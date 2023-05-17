@@ -22,7 +22,7 @@ The project contains these components, classes and IDE extensions:
 | Stream Extension Classes | [ddablib/streams](https://github.com/ddablib/streams) | [View](https://lib-docs.delphidabbler.com/Streams/) | Win32<br>Win64 | RTL |
 | System Information Unit | [ddablib/sysinfo](https://github.com/ddablib/sysinfo) | [View](https://lib-docs.delphidabbler.com/SysInfo/) | Win32<br>Win64 | RTL |
 | Version Information Component | [ddablib/verinfo](https://github.com/ddablib/verinfo) | [View](https://lib-docs.delphidabbler.com/VerInfo) | Win32<br>Win64 | VCL & FMX |
-| Version Information Manipulator Library | [ddablib/vibin](https://github.com/ddablib/vibin) | [View](https://lib-docs.delphidabbler.com/VIBin/) | Win32 | VCL & FMX |
+| Binary Version Information Manipulator Library | [ddablib/vibin](https://github.com/ddablib/vibin) | [View](https://lib-docs.delphidabbler.com/VIBin/) | Win32 | VCL & FMX |
 | Window State Components | [ddablib/wdwstate](https://github.com/ddablib/wdwstate) | [View](https://lib-docs.delphidabbler.com/WdwState) | Win32<br>Win64 | VCL |
 
 Key to columns:
